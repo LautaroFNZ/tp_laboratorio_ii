@@ -17,3 +17,9 @@ C:\Users\Lauty\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyRefe
 C:\Users\Lauty\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Lauty\Downloads\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Lauty\Downloads\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lauty\Desktop\tp_labotario_2\Fernandez.Lautaro.TP2\Entidades\obj\Debug\Entidades.pdb
