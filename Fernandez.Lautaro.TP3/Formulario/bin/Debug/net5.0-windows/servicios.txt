@@ -1,0 +1,14 @@
+
+CODIGO:#1000
+Plan basico:2gb + 1gb Whatsapp ($1000)
+CODIGO:#1001
+Plan inicial:5gb + Whastapp FREE($1500)
+CODIGO:#1002
+Plan premiun:GB ilimtadas + Whastapp + Llamadas FREE($3000)
+CODIGO:#1003
+Pack Familiar:4 LINEAS + Pack inicial($4800)
+CODIGO:#1004
+Pack Empresa:30 LINEAS + Pack basico + Llamadas FREE entre flota($26000)
+
+
+
