@@ -1,0 +1,48 @@
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\source\repos\Fernandez.Lautaro.2A.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lauty\Desktop\TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP3 CORRECCIONES\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP4\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lauty\Desktop\TP4\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP4\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP4\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lauty\Desktop\TP4\Entidades\obj\Debug\net5.0\Entidades.pdb

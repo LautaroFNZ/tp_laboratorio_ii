@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formulario", "Formulario\Formulario.csproj", "{BE6878B6-E3D4-4D3B-9B06-4E16174FC93C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{C5C44DA4-924B-4BA8-89F9-B44EDB48FBFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{1F91BE8D-33BE-44F9-BC1E-D8B60AEF8FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6878B6-E3D4-4D3B-9B06-4E16174FC93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6878B6-E3D4-4D3B-9B06-4E16174FC93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6878B6-E3D4-4D3B-9B06-4E16174FC93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6878B6-E3D4-4D3B-9B06-4E16174FC93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C44DA4-924B-4BA8-89F9-B44EDB48FBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C44DA4-924B-4BA8-89F9-B44EDB48FBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C44DA4-924B-4BA8-89F9-B44EDB48FBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C44DA4-924B-4BA8-89F9-B44EDB48FBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F91BE8D-33BE-44F9-BC1E-D8B60AEF8FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F91BE8D-33BE-44F9-BC1E-D8B60AEF8FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F91BE8D-33BE-44F9-BC1E-D8B60AEF8FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F91BE8D-33BE-44F9-BC1E-D8B60AEF8FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E30C53-B796-46E9-8645-3B9C43559700}
+	EndGlobalSection
+EndGlobal
